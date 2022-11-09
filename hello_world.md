@@ -1,1 +1,1 @@
-print "hello world" from multiple threads
+print "hello world" in multiple threads
